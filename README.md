@@ -1,4 +1,4 @@
-### Hello! <a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;"></a> I'm <a href="https://www.linkedin.com/in/mariaduong12358/" rel="nofollow">Maria Duong</a> :) 
+### Hello!</a> I'm <a href="https://www.linkedin.com/in/mariaduong12358/" rel="nofollow">Maria Duong</a> :) 
 Currently ... 
 
 <ul>
